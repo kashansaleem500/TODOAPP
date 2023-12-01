@@ -1,0 +1,49 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline !important;
+    font-weight: bolder !important;
+    text-transform: uppercase !important;
+    color: white !important;
+}
+
+.li{
+    list-style: none;
+    text-align: center;
+    color: white !important;
+    text-transform: capitalize !important;
+    font-family: Arial, Helvetica, sans-serif;
+    /* display: inline-block; */
+    /* width: 100px; */
+    
+
+}
+
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white !important;
+}
+
+.bta{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.li :hover{
+    /* background-color: black !important; */
+    border: none !important;
+    color: white !important;
+}
+
+.btn:hover{
+    background-color: lightcyan !important;
+    color: black !important;
+    border: none !important;
+}
+
